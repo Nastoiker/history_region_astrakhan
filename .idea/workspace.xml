@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b0cde15-2171-44de-8867-dafff6d9e196" name="Changes" comment="google tables init">
-      <change afterPath="$PROJECT_DIR$/frontend/components/Header/Slider2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/Slider/Slider.props.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Header/Header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/Slider/Slider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Slider/Slider.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/_document.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +69,7 @@
       <workItem from="1679118694646" duration="2186000" />
       <workItem from="1679122218020" duration="1862000" />
       <workItem from="1679124114932" duration="12455000" />
-      <workItem from="1680251329207" duration="3628000" />
+      <workItem from="1680251329207" duration="4231000" />
     </task>
     <task id="LOCAL-00001" summary="google tables init">
       <created>1674676163882</created>
