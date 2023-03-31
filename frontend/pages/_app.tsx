@@ -3,7 +3,8 @@ import { Inter as FontSans } from "@next/font/google"
 import { ThemeProvider } from "next-themes"
 
 import "@/styles/globals.css"
-
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
 const fontSans = FontSans({
   subsets: ["latin"],
   variable: "--font-sans",
