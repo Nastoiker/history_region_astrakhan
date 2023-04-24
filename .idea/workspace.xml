@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b0cde15-2171-44de-8867-dafff6d9e196" name="Changes" comment="google tables init">
+      <change afterPath="$PROJECT_DIR$/frontend/components/Htag/Htag.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/Htag/htag.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/info/polygonContent/Polygons.content.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/page-component/Merop.container.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/page-component/Merop.container.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Header/Header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/Slider/Slider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Slider/Slider.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiders.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/page-component/About.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/page-component/About.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,23 +42,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/rp-32/history_region_astrakhan/frontend/components/Header",
+    "last_opened_file_path": "E:/Proects/history_region/frontend/components",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "D:\\rp-32\\history_region_astrakhan\\frontend\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "E:\\Proects\\history_region\\frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Proects\history_region\frontend\components" />
       <recent name="D:\rp-32\history_region_astrakhan\frontend\components\Header" />
       <recent name="E:\Proects\history_region\frontend\components\Header" />
       <recent name="E:\Proects\history_region\frontend\components\Slider" />
       <recent name="E:\Proects\history_region" />
-      <recent name="E:\Proects\history_region\src\components\Header" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Proects\history_region\frontend\components\Header" />
@@ -70,6 +81,7 @@
       <workItem from="1679122218020" duration="1862000" />
       <workItem from="1679124114932" duration="12455000" />
       <workItem from="1680251329207" duration="4231000" />
+      <workItem from="1682345204219" duration="8620000" />
     </task>
     <task id="LOCAL-00001" summary="google tables init">
       <created>1674676163882</created>

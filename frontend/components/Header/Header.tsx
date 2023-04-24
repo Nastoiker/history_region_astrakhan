@@ -12,6 +12,9 @@ import Slider2 from './Slider2.jpg';
 export const Header = () : JSX.Element => {
   const sliders:ISlider[] = [{name: 'asdasd', img:  SliderOpera}, {name: 'asdasd', img:  SliderOpera}];
   return (
+    <div>
+
+
     <div className={"relative my-40"} >
 
       <Image className={"object-cover  absolute   z-10 top-1/3 " + styles.Logo} alt='slider' src={GerbCenter}/>
@@ -22,8 +25,7 @@ export const Header = () : JSX.Element => {
       </div>
       <div className={'flex justify-center space-x-8 pb-5'}><Link className={styles.Link} href={'OurHistory'}>НАША ИСТОРИЯ</Link><Link className={styles.Link} href={'Advantages'}>ДОСТОПРИМЕЧАТЕЛЬНОСТИ</Link><Link className={styles.Link} href={'EventsAstrakhan'}>МЕРОПРИЯТИЯ</Link> <Link className={styles.Link} href={'tourGuiders'}>ЭКСКУРСОВОДЫ</Link></div>
     </div>
-      <h1>Slider</h1>
-      <SliderComponent slidersContent={sliders}/>
-
-    </div>);
+      <SliderComponent slidersContent={sliders}/>s
+    </div>     </div>
+);
 };

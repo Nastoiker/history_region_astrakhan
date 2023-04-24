@@ -1,4 +1,7 @@
-export const CardMerop = ({date, name, description, img}) => {
+import Image from "next/image";
+import {MeropContainerProps} from "@/page-component/Merop.container.props";
+
+export const CardMerop = ({date, name, description, img}): JSX.Element => {
     return <div className={"border rounded-3xl bg-black flex align-items-center hover:scale-1.2 bg-white"}>
         <div className="space-y-8 w-80">
             <span className="">{date}</span>
