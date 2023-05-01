@@ -1,14 +1,7 @@
-import Head from "next/head"
-import Link from "next/link"
-
-import { siteConfig } from "@/config/site"
-import { Layout } from "@/components/layout"
-import { buttonVariants } from "@/components/ui/button"
+import {Layout} from "@/components/layout";
+import Head from "next/head";
 import {Header} from "@/components/Header/Header";
 import {AboutUs} from "@/page-component/About";
-import {SliderComponent} from "@/components/Slider/Slider";
-import {ISlider} from "@/components/Slider/Slider.props";
-import SliderOpera from "@/components/Header/SliderOpera.png";
 import {MeropContainer} from "@/page-component/Merop.container";
 import {AdvantagesGallery} from "@/components/AdvantangesGallery/AdvantagesGallery";
 import {CardGuider} from "@/components/cardGuide/CardGuiders";
@@ -26,12 +19,8 @@ export default function IndexPage() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <section className="container  max-w-screen-2xl grid items-center gap-6 pb-8 ">
-        <Header />
-        <AboutUs />
-      <MeropContainer MeropCards={[{date: '123123', name: 'vasya', img:'', description:'asdasdasd'}]}/>
-        <AdvantagesGallery />
+
       </section>
-      <CardGuider  cardGuiders={{img: 'asdasd', number: '++12i8318231', email: 'asdasdas', yearsOld: '123123', name: 'Ivan'}}/>
     </Layout>
   )
 }

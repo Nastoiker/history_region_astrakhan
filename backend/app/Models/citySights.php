@@ -7,8 +7,10 @@ use Illuminate\Database\Eloquent\Model;
 
 class citySights extends Model
 {
+    public $timestamps = false;
     use HasFactory;
+    protected $fillable = ['description'];
     public function lists() {
-        return $this->hasMany(DeskList::class);
+        return $this->hasMany(citySights::class);
     }
 }

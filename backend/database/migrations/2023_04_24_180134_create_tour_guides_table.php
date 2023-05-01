@@ -13,6 +13,10 @@ return new class extends Migration
     {
         Schema::create('tour_guides', function (Blueprint $table) {
             $table->id();
+            $table->string('Name');
+            $table->string('LastName');
+            $table->string('Phone');
+            $table->string('Email');
             $table->timestamps();
         });
     }

@@ -7,8 +7,10 @@ use Illuminate\Database\Eloquent\Model;
 
 class tourGuides extends Model
 {
+    public $timestamps = false;
     use HasFactory;
+    protected $fillable = ['name'];
     public function lists() {
-        return $this->hasMany(DeskList::class);
+        return $this->hasMany(tourGuides::class);
     }
 }

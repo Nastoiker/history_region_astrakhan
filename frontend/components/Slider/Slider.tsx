@@ -11,7 +11,7 @@ export const SliderComponent = ({ slidersContent } : SliderProps) => {
 
 
   return (
-<div className={"max-w-screen-xl w-fit"}>
+<div className={"max-w-screen-2xl w-full"}>
   <Swiper  spaceBetween={1}
            slidesPerView={1}
            centeredSlidesBounds={true}
@@ -19,9 +19,9 @@ export const SliderComponent = ({ slidersContent } : SliderProps) => {
            onSwiper={(swiper) => console.log(swiper)}
   >
     {slidersContent.map( s =>
-      <SwiperSlide key={s.name}>
-      <div>
-        <img className="" alt='slider' src={s.img.src}/>
+      <SwiperSlide  className="w-full h-full" key={s.name}>
+      <div className="w-full">
+        <img className="w-full h-full" alt='slider'  src={s.img.src}/>
       </div>
     </SwiperSlide>)}
   </Swiper>

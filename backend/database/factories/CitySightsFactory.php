@@ -19,7 +19,7 @@ class CitySightsFactory extends Factory
         return [
         'created_at' => now(),
         'updated_at' => now(),
-        'name' => $this->faker->name(),
+        'title' => $this->faker->name(),
         'desk_id' => Desk::inRandomOrder()->first()->id,
     ];
     }

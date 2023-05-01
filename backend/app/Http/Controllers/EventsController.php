@@ -2,6 +2,8 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\EventsRequest;
+use App\Http\Resources\EventsResource;
 use App\Models\Events;
 use Illuminate\Http\Request;
 
@@ -18,16 +20,16 @@ class EventsController extends Controller
     /**
      * Show the form for creating a new resource.
      */
-    public function create($request)
+    public function create(EventsRequest $request)
     {
         $creat_desk = Events::create($request->validated());
-        return new deskresourse($creat_desk);
+        return new EventsResource($creat_desk);
     }
 
     /**
      * Store a newly created resource in storage.
      */
-    public function store(Request $request)
+    public function store(EventsRequest $request)
     {
         //
     }
@@ -37,7 +39,7 @@ class EventsController extends Controller
      */
     public function show(Events $events)
     {
-        //
+
     }
 
     /**
@@ -51,9 +53,10 @@ class EventsController extends Controller
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, Events $events)
+    public function update(EventsRequest $request, Events $events)
     {
-        //
+        $events->update($request->validated());
+        return  new EventsResource($events);
     }
 
     /**

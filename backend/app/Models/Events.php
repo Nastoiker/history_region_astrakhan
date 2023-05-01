@@ -7,8 +7,10 @@ use Illuminate\Database\Eloquent\Model;
 
 class Events extends Model
 {
+    public $timestamps = false;
     use HasFactory;
+    protected $fillable = ['title'];
     public function lists() {
-        return $this->hasMany(DeskList::class);
+        return $this->hasMany(Events::class);
     }
 }

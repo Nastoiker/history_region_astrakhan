@@ -5,21 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b0cde15-2171-44de-8867-dafff6d9e196" name="Changes" comment="google tables init">
-      <change afterPath="$PROJECT_DIR$/frontend/components/Htag/Htag.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/Htag/htag.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/info/polygonContent/Polygons.content.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/page-component/Merop.container.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/page-component/Merop.container.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/AdvantagesGallery.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3652-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3652.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3653.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3654.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3655.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3657.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildCardProps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildMain.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildMain.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/pictureGallery/picturesGallery.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/page-component/image 2 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/pages/astrakhan.kreml.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/GERBCENTER.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Controllers/EventsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Controllers/EventsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Controllers/TourGuidesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Controllers/TourGuidesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Requests/CitySights.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Requests/CitySightsRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Requests/Events.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Requests/EventsRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Requests/TourGuides.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Requests/TourGuidesRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Resources/CitySights.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Resources/CitySightsResource.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Resources/Events.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Resources/EventsResource.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Resources/TourGuides.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Resources/TourGuidesResource.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Models/Events.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/Events.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Models/citySights.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/citySights.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Models/tourGuides.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/tourGuides.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/database/factories/CitySightsFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/factories/CitySightsFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/database/factories/EventsFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/factories/EventsFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_175930_create_events_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_175930_create_events_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_180134_create_tour_guides_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_180134_create_tour_guides_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_180235_create_city_sights_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_180235_create_city_sights_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/api.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Header/Header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/Slider/Slider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Slider/Slider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiderProps.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiderProps.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiders.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.props.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/page-component/About.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/page-component/About.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/page-component/Merop.container.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/page-component/Merop.container.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,28 +65,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Proects/history_region/frontend/components",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "E:\\Proects\\history_region\\frontend\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Proects/history_region/frontend/components/AdvantangesGallery&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\Proects\\history_region\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Proects\history_region\frontend\components\AdvantangesGallery" />
+      <recent name="E:\Proects\history_region\frontend\public" />
+      <recent name="E:\Proects\history_region\frontend\page-component" />
       <recent name="E:\Proects\history_region\frontend\components" />
       <recent name="D:\rp-32\history_region_astrakhan\frontend\components\Header" />
-      <recent name="E:\Proects\history_region\frontend\components\Header" />
-      <recent name="E:\Proects\history_region\frontend\components\Slider" />
-      <recent name="E:\Proects\history_region" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Proects\history_region\frontend\components\Header" />
@@ -82,6 +110,12 @@
       <workItem from="1679124114932" duration="12455000" />
       <workItem from="1680251329207" duration="4231000" />
       <workItem from="1682345204219" duration="8620000" />
+      <workItem from="1682408080381" duration="114000" />
+      <workItem from="1682416783823" duration="119000" />
+      <workItem from="1682445424658" duration="6845000" />
+      <workItem from="1682493041344" duration="8248000" />
+      <workItem from="1682615570280" duration="6976000" />
+      <workItem from="1682956247462" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="google tables init">
       <created>1674676163882</created>
