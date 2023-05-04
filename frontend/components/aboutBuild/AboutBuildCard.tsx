@@ -1,11 +1,27 @@
 import {AboutBuildCardProps} from "@/components/aboutBuild/AboutBuildCardProps";
 import Image from "next/image";
+import cn from "classnames";
+import { Htag } from "../Htag/Htag";
+export const AboutBuildCard = ({img, description, title, positionImg}: AboutBuildCardProps): JSX.Element => {
+  return <div className={cn("sm:flex mx-auto space-x-16", {
+    "flex-row-reverse": positionImg==='left',
+  })}>
 
-export const AboutBuildCard = ({img, description, title, postImg}: AboutBuildCardProps): JSX.Element => {
-  return <div className={"flex"}>
-    {
-      postImg==='left' ?  <Image className={"self-start"} src={img} alt=""/> :  <Image className={"self-end"} src={img} alt=""/>
-    }
+    <div>
+      <Htag type='h1'>
+        {title}
+      </Htag>
+      <p>
+{description}
+    </p>
+    </div>
+    <div>
+      <hr className="rotate-90 p
+        x-auto w-48"/>
+
+    </div>
+  
+     <Image src={img} alt=""/> 
   </div>
   ;
 }
