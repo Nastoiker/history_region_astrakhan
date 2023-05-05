@@ -3,7 +3,7 @@ import Image from "next/image";
 import cn from "classnames";
 import { Htag } from "../Htag/Htag";
 export const AboutBuildCard = ({img, description, title, positionImg}: AboutBuildCardProps): JSX.Element => {
-  return <div className={cn("sm:flex mx-auto space-x-16", {
+  return <div className={cn("sm:flex mx-auto space-x-5", {
     "flex-row-reverse": positionImg==='left',
   })}>
 
@@ -16,12 +16,11 @@ export const AboutBuildCard = ({img, description, title, positionImg}: AboutBuil
     </p>
     </div>
     <div>
-      <hr className="rotate-90 p
-        x-auto w-48"/>
+      <hr className="rotate-90 my-28 w-48"/>
 
     </div>
-  
-     <Image src={img} alt=""/> 
+
+     <Image src={img} alt=""/>
   </div>
   ;
 }

@@ -5,49 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b0cde15-2171-44de-8867-dafff6d9e196" name="Changes" comment="google tables init">
-      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/AdvantagesGallery.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3652-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3652.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3653.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3654.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3655.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/pictures/Rectangle 3657.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildCardProps.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildMain.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildMain.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/pictureGallery/picturesGallery.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/page-component/image 2 (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/astrakhan.kreml.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/GERBCENTER.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Http/Controllers/EventsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Controllers/EventsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Http/Controllers/TourGuidesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Controllers/TourGuidesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Http/Requests/CitySights.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Requests/CitySightsRequest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Http/Requests/Events.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Requests/EventsRequest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Http/Requests/TourGuides.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Requests/TourGuidesRequest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Http/Resources/CitySights.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Resources/CitySightsResource.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Http/Resources/Events.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Resources/EventsResource.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Http/Resources/TourGuides.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Resources/TourGuidesResource.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Models/Events.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/Events.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Models/citySights.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/citySights.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/Models/tourGuides.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/tourGuides.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/database/factories/CitySightsFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/factories/CitySightsFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/database/factories/EventsFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/factories/EventsFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_175930_create_events_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_175930_create_events_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_180134_create_tour_guides_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_180134_create_tour_guides_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_180235_create_city_sights_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/migrations/2023_04_24_180235_create_city_sights_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Slider/Slider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Slider/Slider.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiderProps.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiderProps.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiders.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/page-component/Merop.container.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/page-component/Merop.container.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildMain.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildMain.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/kreml.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/kreml.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +76,8 @@
       <workItem from="1682445424658" duration="6845000" />
       <workItem from="1682493041344" duration="8248000" />
       <workItem from="1682615570280" duration="6976000" />
-      <workItem from="1682956247462" duration="649000" />
+      <workItem from="1682956247462" duration="839000" />
+      <workItem from="1683219452721" duration="2172000" />
     </task>
     <task id="LOCAL-00001" summary="google tables init">
       <created>1674676163882</created>
