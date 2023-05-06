@@ -5,10 +5,10 @@
   opacity: 0.5;
 }
 .Link {
-   opacity: 0.76;
+  opacity: 0.76;
   font-weight: 300;
- }
-
-.Logo {
-  left: 45%;
 }
+
+/* .Logo {
+  left: 45%;
+} */

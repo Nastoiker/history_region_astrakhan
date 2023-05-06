@@ -6,11 +6,12 @@ import spenskSobor from './pictures/Rectangle 3654.png'
 import Vladimir from './pictures/Rectangle 3652-1.png'
 import ElderAbusa from './pictures/Rectangle 3657.png'
 import {Htag} from "@/components/Htag/Htag";
+import { redirect } from "next/navigation";
 
 
 export const AdvantagesGallery = ({}): JSX.Element => {
   return <div className="mx-72 max-h-[800px] grid grid-flow-row grid-rows-3 grid-cols-3 gap-2">
-    <div className={"w-full col-span-2"}>
+    <div className={"w-full hover:scale-95 transition-all col-span-2"}>
       <Image className={"w-full h-full"}  src={AstrKreml}  alt="" loading="lazy" />
       <div className={" px-2 pt-4 bg-gradient-to-t from-black rounded-l-lg to-1% transparent left-auto right-auto  -my-[43px]  absolute z-10 "}>
         <Htag className=" 	"type={'h2'}>Астраханский кремль</Htag>
@@ -18,28 +19,28 @@ export const AdvantagesGallery = ({}): JSX.Element => {
 
     </div>
     <div className={""}>
-      <Image  className={"w-full h-full"}  src={Opera} alt="" loading="lazy" />
+      <Image  className={"w-full hover:scale-95 transition-all h-full"}  src={Opera} alt="" loading="lazy" />
       <div className={" px-2 pt-4 bg-gradient-to-t from-black rounded-l-lg to-1% transparent left-auto right-auto  -my-[43px]  absolute z-10 "}>
         <Htag className=" 	"type={'h2'}>Театр оперы и балета</Htag>
       </div>
 
     </div>
     <div className={""}>
-      <Image  className={"w-full h-full"}  src={Arka} alt="" loading="lazy" />
+      <Image  className={"w-full hover:scale-95 transition-all h-full"}  src={Arka} alt="" loading="lazy" />
       <div className={" px-2 pt-4 bg-gradient-to-t from-black rounded-l-lg to-1% transparent left-auto right-auto  -my-[43px]  absolute z-10 "}>
         <Htag className=" 	"type={'h2'}>Триумфальная арка</Htag>
       </div>
 
     </div>
     <div className={"col-span-2"}>
-      <Image  className={"w-full h-full"}  src={spenskSobor} alt="" loading="lazy"/>
+      <Image  className={"w-full hover:scale-95 transition-all h-full"}  src={spenskSobor} alt="" loading="lazy"/>
       <div className={" px-2 pt-4 bg-gradient-to-t from-black rounded-l-lg to-1% transparent left-auto right-auto  -my-[43px]  absolute z-10 "}>
         <Htag className=" 	"type={'h2'}>Успенский собор</Htag>
       </div>
 
     </div>
     <div className={"col-span-2"}>
-      <Image  className={"w-full  h-full shadow-b-2xl"}  src={Vladimir} alt="" loading="lazy"/>
+      <Image  className={"w-full hover:scale-95 transition-all  h-full shadow-b-2xl"}  src={Vladimir} alt="" loading="lazy"/>
       <div className={" px-2 pt-4 bg-gradient-to-t from-black rounded-l-lg to-1% transparent left-auto right-auto  -my-[43px]  absolute z-10 "}>
         <Htag className=" 	"type={'h2'}>ХРАМ СВ. ВЛАДИМИРА</Htag>
       </div>
@@ -50,7 +51,7 @@ export const AdvantagesGallery = ({}): JSX.Element => {
 
 
     <div className={""}>
-      <Image  className={"w-full h-full"} src={ElderAbusa} alt="" loading="lazy"/>
+      <Image  className={"w-full hover:scale-95 transition-all h-full"} src={ElderAbusa} alt="" loading="lazy"/>
       <div className={" px-2 pt-4 bg-gradient-to-t from-black rounded-l-lg to-1% transparent left-auto right-auto  -my-[43px]  absolute z-10 "}>
         <Htag className=" 	"type={'h2'}>ФОНТАН</Htag>
       </div>
