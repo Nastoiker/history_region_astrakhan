@@ -48,6 +48,7 @@
     "classnames": "^2.3.2",
     "clsx": "^1.2.1",
     "cmdk": "^0.1.21",
+    "keen-slider": "^6.8.5",
     "lucide-react": "^0.105.0-alpha.4",
     "next": "^13.1.6",
     "next-themes": "^0.2.1",
@@ -56,7 +57,6 @@
     "react-slick": "^0.29.0",
     "sharp": "^0.31.3",
     "slick-carousel": "^1.8.1",
-    "swiper": "^9.1.1",
     "tailwind-merge": "^1.10.0",
     "tailwindcss-animate": "^1.0.5"
   },

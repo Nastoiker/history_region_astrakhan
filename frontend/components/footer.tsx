@@ -2,7 +2,7 @@ import Image from 'next/image';
 import icon from 'public/GERBCENTER.png';
 export const Footer = () => {
     return (<div className="py-10 bg-black  w-full  bottom-0  mx-auto">
-        <div className="flex  justify-center space-x-10 ">
+        <div className="flex   space-x-10 ">
             <Image alt="Logo"  src={icon} />
           <div>
             <h1 className={"mb-10 text-3xl"}>ОФИЦИАЛЬНЫЙ АСТРАХАНСКИЙ ТУРИСТИЧЕСКИЙ ПОРТАЛ</h1>

@@ -27,7 +27,7 @@ export const Header = () : JSX.Element => {
         <h1 className={"mx-auto  text-3xl word-breaks font-bolds"}>ТУРИСТИЧЕСКИЙ ПОРТАЛ</h1>
 
       </div>
-      <div className={'flex justify-center space-x-8 pb-5'}><Link className={styles.Link} href={'OurHistory'}>НАША ИСТОРИЯ</Link><Link className={styles.Link} href={'Advantages'}>ДОСТОПРИМЕЧАТЕЛЬНОСТИ</Link><Link className={styles.Link} href={'EventsAstrakhan'}>МЕРОПРИЯТИЯ</Link> <Link className={styles.Link} href={'tourGuiders'}>ЭКСКУРСОВОДЫ</Link></div>
+      <div className={'md:flex block justify-center text-center md:space-x-8 pb-5'}><Link className={styles.Link + " block"} href={'OurHistory '}>НАША ИСТОРИЯ</Link><Link className={styles.Link + " block"} href={'Advantages'}>ДОСТОПРИМЕЧАТЕЛЬНОСТИ</Link><Link className={styles.Link + " block"} href={'EventsAstrakhan'}>МЕРОПРИЯТИЯ</Link> <Link className={styles.Link + " block"} href={'tourGuiders'}>ЭКСКУРСОВОДЫ</Link></div>
     </div>
     </div>     </div>
 );
