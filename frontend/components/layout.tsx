@@ -10,9 +10,12 @@ export function Layout({ children }: LayoutProps) {
   return (
     <>
       {/*<SiteHeader />*/}
-      <main>
+      <main className={"Container relative min-h-full h-auto"}>
           <Header />
-        {children}
+        <div className={"Content"}>
+          {children}
+
+        </div>
 
             <Footer />
 

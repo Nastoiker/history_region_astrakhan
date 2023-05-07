@@ -29,15 +29,17 @@ export default function IndexPage() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <section className="container  max-w-screen-2xl grid items-center gap-6 pb-8 ">
+      <section className="container  max-w-screen-2xl  ">
 
         <SliderComponent slidersContent={sliders}/>
 
 
         <AboutUs />
-      <MeropContainer MeropCards={[{date: '123123', name: 'vasya', img:'', description:'asdasdasd'}]}/>
+        <MeropContainer MeropCards={[{date: '123123', name: 'vasya', img:'', description:'asdasdasd'}]}/>
         <AdvantagesGallery />
-        <CardGuider  cardGuiders={{img: 'asdasd', number: '++12i8318231', email: 'asdasdas', yearsOld: '123123', name: 'Ivan'}}/>
+
+
+      {/*  <CardGuider  cardGuiders={{img: 'asdasd', number: '++12i8318231', email: 'asdasdas', yearsOld: '123123', name: 'Ivan'}}/>*/}
 
       </section>
     </Layout>
