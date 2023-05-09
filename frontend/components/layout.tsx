@@ -1,6 +1,6 @@
+import { Footer } from "@/components/footer"
 import { SiteHeader } from "@/components/site-header"
-import {Footer} from "@/components/footer";
-import { Header } from "./MainHomeSlider/MainHomeSlider";
+import { Header } from "./MainHomeSlider/MainHomeSlider"
 
 interface LayoutProps {
   children: React.ReactNode
@@ -11,14 +11,10 @@ export function Layout({ children }: LayoutProps) {
     <>
       {/*<SiteHeader />*/}
       <main className={"Container relative min-h-full h-auto"}>
-          <Header />
-        <div className={"Content"}>
-          {children}
+        <Header />
+        <div className={"Content"}>{children}</div>
 
-        </div>
-
-            <Footer />
-
+        <Footer />
       </main>
     </>
   )

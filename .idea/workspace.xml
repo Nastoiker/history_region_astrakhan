@@ -6,9 +6,74 @@
   <component name="ChangeListManager">
     <list default="true" id="2b0cde15-2171-44de-8867-dafff6d9e196" name="Changes" comment="google tables init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/AdvantagesGallery.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/AdvantangesGallery/AdvantagesGallery.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/CardAbout/CardAbout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/CardAbout/CardAbout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Htag/Htag.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Htag/Htag.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Htag/htag.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Htag/htag.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/MainHomeSlider/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/MainHomeSlider/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/MainHomeSlider/MainHomeSlider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/MainHomeSlider/MainHomeSlider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Slider/Slider.props.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Slider/Slider.props.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Slider/Slider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Slider/Slider.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildCardProps.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildCardProps.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildMain.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildMain.props.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildMain.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/aboutBuild/AboutBuildMain.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiderProps.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiderProps.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardGuide/CardGuiders.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/cardMerop/cardMerop.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/icons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/icons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/main-nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/main-nav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/site-header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/site-header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/theme-toggle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/theme-toggle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/accordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/alert-dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/alert-dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/aspect-ratio.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/aspect-ratio.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/avatar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/avatar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/checkbox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/checkbox.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/collapsible.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/collapsible.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/command.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/command.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/context-menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/context-menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/dropdown-menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/dropdown-menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/hover-card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/hover-card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/input.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/input.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/label.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/label.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/menubar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/menubar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/navigation-menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/navigation-menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/popover.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/popover.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/progress.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/progress.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/radio-group.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/radio-group.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/scroll-area.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/scroll-area.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/select.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/select.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/separator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/separator.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/sheet.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/sheet.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/slider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/slider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/switch.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/switch.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/tabs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/tabs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/textarea.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/textarea.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/toast.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/toast.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/toaster.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/toaster.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/toggle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/toggle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/ui/tooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/ui/tooltip.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/config/site.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/site.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/hooks/use-toast.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/hooks/use-toast.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/next-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/next-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/page-component/About.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/page-component/About.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/page-component/About.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/page-component/About.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/page-component/Merop.container.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/page-component/Merop.container.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/page-component/Merop.container.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/page-component/Merop.container.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/pages/kreml.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/kreml.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/types/nav.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/types/nav.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +96,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Proects/history_region/frontend/components/AdvantangesGallery&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Proects/flowenBasic&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -78,6 +143,11 @@
       <workItem from="1682615570280" duration="6976000" />
       <workItem from="1682956247462" duration="839000" />
       <workItem from="1683219452721" duration="2172000" />
+      <workItem from="1683302616749" duration="735000" />
+      <workItem from="1683367861077" duration="9733000" />
+      <workItem from="1683401997758" duration="3264000" />
+      <workItem from="1683444158487" duration="5905000" />
+      <workItem from="1683551669171" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="google tables init">
       <created>1674676163882</created>
@@ -106,15 +176,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="google tables init" />
     <option name="LAST_COMMIT_MESSAGE" value="google tables init" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/frontend/components/layout.tsx</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
